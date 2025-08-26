@@ -129,6 +129,14 @@ form, .comfirm{
   padding: 10px 13%;
 }
 
+.confirm{
+  padding: 10px 13%;
+}
+
+.confirm span{
+  color: #F4CE14;
+}
+
 .formField{
   padding: 50px 20px;
 }
